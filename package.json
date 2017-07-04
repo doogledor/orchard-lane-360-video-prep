@@ -1,0 +1,35 @@
+{
+  "name": "orchard-lane-360-video-prep",
+  "description": "PLAYLIST https://www.youtube.com/playlist?list=PLZRcgvIPIUuWH9WxuUqV2QEs5S-C63vzx",
+  "homepage": "https://github.com/doogledor/orchard-lane-360-video-prep",
+  "author": "Sam Elie <sam@add.dog>",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doogledor/orchard-lane-360-video-prep.git",
+    "web": "https://github.com/doogledor/orchard-lane-360-video-prep/"
+  },
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "video-dash-uploader": "*"
+  },
+  "engines": {
+    "node": ">=6.7.0"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/doogledor/orchard-lane-360-video-prep/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  ],
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "license": "MIT"
+}
